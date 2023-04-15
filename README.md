@@ -17,4 +17,4 @@
 <hr style="height:5px;border-width:50%;background-color:#00A4BD;" >
 <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamila30&title_color=9F2B00&icon_color=CC5160&text_color=9F2B00&bg_color=B1D8B7&show_icons=true&locale=en&layout=compact" alt="jamila30" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamila30&title_color=FA8C00&icon_color=CC5160&text_color=FCFAF0&bg_color=B1D8B7&show_icons=true&locale=en" alt="jamila30" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamila30&title_color=9F2B00&icon_color=CC5160&text_color=9F2B00&bg_color=B1D8B7&show_icons=true&locale=en" alt="jamila30" /></p>
