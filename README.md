@@ -2,10 +2,10 @@
 
 - 💬 Ask me about **EntityFramework Core,C# and write Clean Code**
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 - 📫 How to reach me **cemile.ismayilzade02@gmail.com**
 
 <hr style="height:5px;border-width:50%;background-color:#00A4BD;" >
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cemile-ismayilzade-3aa718196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cemile-ismayilzade-3aa718196" height="30" width="40" /></a>
