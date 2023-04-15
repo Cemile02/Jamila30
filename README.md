@@ -3,7 +3,6 @@
 - 💬 Ask me about **EntityFramework Core,C# and write Clean Code**
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
-
 - 📫 How to reach me **cemile.ismayilzade02@gmail.com**
 
 <hr style="height:5px;border-width:50%;background-color:#00A4BD;" >
